@@ -1,8 +1,5 @@
 hello!
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
+
+Check this out 
+[link to Google!](http://google.com)
